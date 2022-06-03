@@ -18,7 +18,7 @@ namespace Banner
             Sys.FileSystem.VFS.VFSManager.RegisterVFS(fs);
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.Gray;
-            Console.WriteLine("Banner v0.1");
+            Console.WriteLine("Banner v0.9");
             Console.WriteLine("");
         }
 
