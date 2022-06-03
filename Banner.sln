@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Banner", "Banner.csproj", "{C94BD51F-EA5A-4CF3-ADF9-364D6D39205F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{56FECA42-457B-4B4B-9AEA-423C2164B27F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C94BD51F-EA5A-4CF3-ADF9-364D6D39205F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94BD51F-EA5A-4CF3-ADF9-364D6D39205F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94BD51F-EA5A-4CF3-ADF9-364D6D39205F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94BD51F-EA5A-4CF3-ADF9-364D6D39205F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A90FFA4-DB7E-40EC-A433-F6279606BD81}
+	EndGlobalSection
+EndGlobal
