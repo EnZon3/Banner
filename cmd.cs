@@ -29,14 +29,14 @@ namespace Banner.cmd
 					Console.ForegroundColor = ConsoleColor.Blue;
 					Console.WriteLine("help: this command");
 					Console.WriteLine("dir: Displays directory list");
-					Console.WriteLine("cat: opens a file, format: cat [file name with extention]");
+					Console.WriteLine("cat: displays the contents of the file, format: cat [file name with extention]");
 					Console.WriteLine("run: Runs a BScript file, format: run [file name with extention]");
                     Console.WriteLine("runL: Runs BScript format: run [script]");
 					Console.WriteLine("cr: creates a file, format: cr [filename and extention]");
 					Console.WriteLine("edit: edits a file, format: edit [filename with extention]");
-					Console.WriteLine("format: Formats the drive to FAT32 (WARNING all data will be lost!)");
+					Console.WriteLine("format: Formats the drive to FAT32 (WARNING all data will be lost!) (NOT WORKING)");
 					Console.WriteLine("freeSpace: gets free space");
-					Console.WriteLine("gurl: Basic version of curl, format: gurl [url] -[param]");
+					Console.WriteLine("gurl: Basic version of curl, format: gurl [url] -[param] (NOT FINISHED)");
 					Console.WriteLine("lsDisk: gets all disks");
 					Console.WriteLine("restart: Self explainatory");
 					Console.WriteLine("shutdown: Self explainatory");
