@@ -27,7 +27,7 @@ namespace Banner
             Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.Write("banner");
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.Write("-$ ");
+            Console.Write("~$ ");
             Console.ForegroundColor = ConsoleColor.Gray;
             var input = Console.ReadLine();
             cmd.cmd.readCmd(input);
